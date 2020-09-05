@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[requires]
+python_version = "3.8"
+
+[packages]
+emcee = ">=3.0"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scipy = "*"
+
+[dev-packages]
+jupyterlab = "*"
+pyextremes = {editable = true, path = "./../pyextremes"}

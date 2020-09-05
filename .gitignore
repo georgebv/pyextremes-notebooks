@@ -1,1 +1,5 @@
-.ipynb_checkpoints
+# Development environment
+.devcontainer
+
+# Jupyter
+**/.ipynb_checkpoints
