@@ -4,7 +4,7 @@
 # Plain text files
 *.csv text eol=lf
 *.md text eol=lf
-.gitatignore text eol=lf
+.gitignore text eol=lf
 .gitattributes text eol=lf
 Pipfile text eol=lf
 Pipfile.lock text eol=lf
